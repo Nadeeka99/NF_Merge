@@ -1,0 +1,4 @@
+#id	#ServiceName 	#profile	#action	tool	renew	time	repeart	rule1	subn
+1	gg	nuke	hit	live	yes	18:00:00	no	23	new
+23	gg	nato	hit	cleared	yes	18:00:40	no	45	new
+40	gg	radar	hit	lite	yes	19:00:00	no	67	new
